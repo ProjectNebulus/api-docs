@@ -30,13 +30,13 @@ User Class
 >>
 > >>`self.x`
 > >>
-> >>Type: `Interger`
+> >>Type: `Integer`
 > >>
 > > >The size of the image on the x axis
 >>
 > >>`self.y`
 > >>
-> >>Type: `Interger`
+> >>Type: `Integer`
 > >>
 > >> The size of the image on the y axis
 
